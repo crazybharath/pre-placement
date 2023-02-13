@@ -1,0 +1,23 @@
+#first{
+    display: flex;
+    margin-left: 70px;
+    width: 1200px;
+    height: 500px;
+    background-color: #ffff;
+    border: 2px solid black;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    width: 10%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    color: red;
+    
+}
