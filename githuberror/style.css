@@ -1,0 +1,21 @@
+*{
+    background-color: aquamarine;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+}
+#view{
+    margin-top: 50px;
+    text-align: center;
+}
+#load_prev{
+    border-radius: 5px;
+    color: black;
+    background-color: burlywood;
+}
+#load_next{
+    border-radius: 5px;
+    color: black;
+    background-color: burlywood;
+}
