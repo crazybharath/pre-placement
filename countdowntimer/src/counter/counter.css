@@ -1,0 +1,13 @@
+*{
+    background-color: aquamarine;
+}
+#timecount{
+    border: 2px solid red;
+}
+#input{
+    width: 500px;
+    height: 600px;
+}
+#current-time{
+    margin-top: 20px;
+}
